@@ -1,8 +1,8 @@
 # Core Python libraries for ML & Data Science
-numpy
+numpy>=1.26
 pandas
-scikit-learn
-matplotlib
+scikit-learn>=1.4
+matplotlib>=3.8
 seaborn
 jupyter
 
@@ -10,8 +10,8 @@ jupyter
 xgboost
 lightgbm
 tensorflow
-torch
-torchvision
+torch>=2.2
+torchvision>=0.17
 torchaudio
 
 # NLP
@@ -26,7 +26,7 @@ lime
 # Utilities
 tqdm
 joblib
-pyyaml
+pyyaml>=6.0
 
 # --------------------------------------------
 # 💡 Extra Recommendations (Uncomment if needed)
@@ -87,7 +87,7 @@ flax
 pre-commit
 black
 flake8
-pytest
+pytest>=8.0
 pytest-cov
 # tox
 # mypy
