@@ -1,3 +1,4 @@
+# tests/test_model.py
 import torch
 from src.model import SimpleCNN
 
