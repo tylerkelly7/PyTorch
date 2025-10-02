@@ -26,6 +26,7 @@ lime
 # Utilities
 tqdm
 joblib
+pyyaml
 
 # --------------------------------------------
 # 💡 Extra Recommendations (Uncomment if needed)
@@ -49,7 +50,7 @@ joblib
 # darts
 
 # MLOps / Experiment Tracking
-# mlflow
+mlflow
 # wandb
 # tensorboard
 # hydra-core
@@ -57,11 +58,11 @@ joblib
 # dagster
 
 # Deep Learning
-# pytorch-lightning
-# accelerate
-# keras
-# jax
-# flax
+pytorch-lightning
+accelerate
+keras
+jax
+flax
 
 # NLP
 # gensim
@@ -83,11 +84,11 @@ joblib
 # pydantic
 
 # Testing & CI/CD
-# pre-commit
-# black
-# flake8
-# pytest
-# pytest-cov
+pre-commit
+black
+flake8
+pytest
+pytest-cov
 # tox
 # mypy
 # bandit
