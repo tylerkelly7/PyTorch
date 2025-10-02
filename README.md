@@ -29,7 +29,7 @@ ls outputs/
 
 ## Results
 - Expect ~99% validation accuracy after a few epochs
-- Artifacts: outpus/confusion_matrix.png, outputs/classification_report.txt
+- Artifacts: outputs/confusion_matrix.png, outputs/classification_report.txt
 - Best model saved to checkpoints/best_model.pt.
 
 ## Next Steps
